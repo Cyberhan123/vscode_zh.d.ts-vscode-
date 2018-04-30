@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 欢迎来到Cyberhan的vscode api 中文翻译
 
-You can use the [editor on GitHub](https://github.com/Cyberhan123/vscode_zh.d.ts-vscode-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎大家访问我的个人网站 https://hselfweb.cn
+这个的使用方式就是替换原来的文件，这样可以在编程插件的时候看到全中文介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 为什么翻译
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本人是大学学生业余事件翻译一下这个文案，主要是为了提高自己的编程能力和英语水平，6000+行的文字量真的很恐怖，期待有志之士加入~~~
 
 ```markdown
-Syntax highlighted code block
+# 未完成：
+ 部分机器翻译并未更正
+ 部分语法错误并未完全检测出来
+ 
+ 
+## 完成部分
+所有的注释翻译
+所用的结构整合
+本翻译和源文件几乎能做到逐行对早
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 捐赠，支持
+感谢大家了，你的支持就是给我莫大的鼓励！
 
-**Bold** and _Italic_ and `Code` text
+#吱口令#长按复制此条消息，打开支付宝给我转账37iEWU37yj
 
-[Link](url) and ![Image](src)
-```
+### 联系我，遇到错误可以告诉我哦~~~
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cyberhan123/vscode_zh.d.ts-vscode-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本翻译文件拒绝商业使用！
